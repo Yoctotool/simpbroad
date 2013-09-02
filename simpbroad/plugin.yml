@@ -1,0 +1,10 @@
+name: Simpbroad
+version: 0.1.16
+description: Simple plugin de diffusion de messages automatiques sur le serveur
+author: Yoctotool
+website: http://yoctotool.github.io/
+main: io.github.yoctotool.simpbroad.Simpbroad
+commands:
+  sb:
+    description: Simpbroad commands
+    usage: "/<command> : this help\n/<command> new <type:spec> <id> <message> : create a new automatic message\n/<command> list : list all the messages with type, specification and id\n/<command> rm <id> : delete a message"

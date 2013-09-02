@@ -1,0 +1,13 @@
+settings:
+  laps: 300
+  random: true
+messages: 
+  test:
+    type: normal
+    msg: Message de test
+  midi:
+    type: date
+    time: 12
+    msg: Il est midi
+    
+
